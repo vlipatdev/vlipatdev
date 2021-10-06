@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - ‍💻 I’m currently looking for an entry-level React developer job
+- 📁 Here's my portfolio: [vlipatdev.github.io](https://vlipatdev.github.io/)
 - 📫 How to reach me: vlipat.dev@gmail.com
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
