@@ -1,4 +1,15 @@
-### Skills
+### Hi there 👋
+
+- ‍💻 I’m currently looking for an entry-level React developer job
+- 📫 How to reach me: vlipat.dev@gmail.com
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
+### My Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
