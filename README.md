@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ‍💻 I’m currently looking for a remote entry-level React developer job
+- ‍💻 I’m currently looking for a remote junior-level React developer job
 - 📁 Here's my portfolio: [vlipatdev.github.io](https://vlipatdev.github.io/)
 - 📫 How to reach me: vlipat.dev@gmail.com
 <!-- - 🔭 I’m currently working on ... -->
