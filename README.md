@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- ‍💻 I’m currently looking for a remote junior-level React developer job
+<!-- - ‍💻 I’m currently looking for a remote junior-level React developer job
 - 📁 Here's my portfolio: [vlipatdev.github.io](https://vlipatdev.github.io/)
-- 📫 How to reach me: vlipat.dev@gmail.com
+- 📫 How to reach me: vlipat.dev@gmail.com -->
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- Welcome to my GitHub profile!
 
 ### My Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
