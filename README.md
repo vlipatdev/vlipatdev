@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - Welcome to my GitHub profile!
-- Know more about me using my career agent app powered by AI: [Go to app](https://huggingface.co/spaces/vlipatdev/career-agent)
-
+- 
 ### Tech Stack
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
